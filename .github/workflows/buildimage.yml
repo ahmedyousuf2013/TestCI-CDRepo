@@ -48,4 +48,4 @@ jobs:
           context: .
           file: ./GitHubActions/Dockerfile
           push: true
-          tags: user/app:latest
+          tags: goldena91/githubactions:latest
