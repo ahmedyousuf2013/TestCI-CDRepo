@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\GitHubActions\\GitHubActions.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\TestGitHubActions\\TestCI-CDRepo\\GitHubActions\\GitHubActions.csproj",
       "projectName": "GitHubActions",
-      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\GitHubActions\\GitHubActions.csproj",
+      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\TestGitHubActions\\TestCI-CDRepo\\GitHubActions\\GitHubActions.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\GitHubActions\\obj\\",
+      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\GitHubActions\\TestGitHubActions\\TestCI-CDRepo\\GitHubActions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
